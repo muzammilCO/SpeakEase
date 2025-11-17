@@ -1,0 +1,5 @@
+start_time,end_time,text,predicted_emotion,confidence
+3.0200000000000022,8.1,"Never tried, ever failed, no matter.",fearful,0.1338048130273819
+9.08,13.72,"Try again, fail again, fail better.",fearful,0.13394717872142792
+14.88,16.74,The world is yours.,fearful,0.13823720812797546
+18.58,23.46,Treat everyone kindly and light up the night.,neutral,0.14081135392189026

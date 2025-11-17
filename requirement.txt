@@ -1,0 +1,13 @@
+datasets
+soundfile
+pandas
+tqdm
+librosa
+matplotlib
+ipython
+torch
+transformers
+faster-whisper
+torchaudio
+torchcodec==0.7
+openai-whisper
